@@ -1,0 +1,3 @@
+## This is kind of like https://raw.githubusercontent.com/github/gitignore/master/Drupal.gitignore
+## Except we exclude ALL of drupal
+/drupal-root
